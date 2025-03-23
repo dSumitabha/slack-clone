@@ -3,7 +3,7 @@ import googleLogo from "../assets/google_icon.svg";
 
 const Hero = () => {
   return (
-    <section className=" mx-auto px-8 py-16 flex flex-col md:flex-row items-center gap-8 bg-purple-100">
+    <section className=" mx-auto px-12 py-16 flex flex-col md:flex-row items-center gap-x-36 gap-y-12 bg-purple-100">
       
       <div className="text-center md:text-left space-y-6">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900">

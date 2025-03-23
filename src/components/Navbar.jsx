@@ -5,7 +5,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="sticky top-0 bg-white shadow-md p-4">
+    <nav className="sticky top-0 bg-white shadow-md p-4 z-5">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         
         <div className="text-xl font-bold text-gray-900 flex justify-between items-center gap-8">
